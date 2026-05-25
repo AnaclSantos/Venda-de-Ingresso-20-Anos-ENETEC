@@ -503,7 +503,7 @@
     <div class="card">
       <span class="card-icon">🕖</span>
       <span class="card-label">Horário</span>
-      <span class="card-value">19:30</span>
+      <span class="card-value">19:00</span>
       <span class="card-note">Abertura das portas</span>
     </div>
     <div class="card">
@@ -591,11 +591,11 @@
     </div>
 
     <div style="margin-top:2.5rem" class="reveal">
-      <a href="#" class="cta-btn" style="margin: 0 auto; display:inline-flex">
+      <a href="https://forms.gle/gGJ2qUi8oDHDttyg7" class="cta-btn" style="margin: 0 auto; display:inline-flex" target="_blank" rel="noopener">
         <span>Formulário de confirmação</span>
         <span class="arrow">→</span>
       </a>
-      <p style="margin-top:.8rem; font-size:.75rem; color:rgba(255,255,255,.2)">Substitua o link acima pelo seu Google Forms</p>
+      
     </div>
   </div>
 </section>
